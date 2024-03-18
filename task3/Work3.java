@@ -5,5 +5,7 @@ public class Work3 {
         byte i = 42;
         short j = 3;
         System.out.println(i+j);
+
+        // ok
     }
 }
